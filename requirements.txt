@@ -1,2 +1,2 @@
+flake8==2.0
 python-ldap==2.4.13
-wsgiref==0.1.2
